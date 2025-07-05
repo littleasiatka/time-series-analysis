@@ -41,7 +41,7 @@ This project analyzes government spending patterns across U.S. states using data
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/time-series-analysis.git
+git clone https://github.com/littleasiatka/time-series-analysis.git
 cd time-series-analysis
 ```
 
